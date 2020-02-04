@@ -2,6 +2,7 @@
 
 namespace ConsoleAppGIT
 {
+    //Comentario deivi
     class Program
     {
         static void Main(string[] args)
@@ -13,6 +14,7 @@ namespace ConsoleAppGIT
             Console.WriteLine("Juan es pro");
             Console.WriteLine("Juan es noob");
             Console.WriteLine("Juan no es noob, el es pro");
+
         }
     }
 }
