@@ -7,6 +7,7 @@ namespace ConsoleAppGIT
         static void Main(string[] args)
         {
             Console.WriteLine("Hola cami");
+            Console.WriteLine("Hola deivif");
         }
     }
 }
