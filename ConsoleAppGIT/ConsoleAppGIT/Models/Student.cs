@@ -7,5 +7,6 @@ namespace ConsoleAppGIT.Models
     public class Student
     {
         public string Name { get; set; }
+        public int NDocument { get; set; }
     }
 }
