@@ -12,6 +12,7 @@ namespace ConsoleAppGIT
             Console.WriteLine("Juan quemó el iva");
             Console.WriteLine("Juan es pro");
             Console.WriteLine("Juan es noob");
+            Console.WriteLine("Juan no es noob, el es pro");
         }
     }
 }
