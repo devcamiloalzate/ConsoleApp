@@ -21,6 +21,7 @@ namespace ConsoleAppGIT
             Console.WriteLine("Nuevo commit en la master");
             Console.WriteLine("Nuevo commit en la master 2");
             Console.WriteLine("Nuevo commit en la master 3");
+            Console.WriteLine("Nuevo commit en la master 4");
         }
     }
 }
