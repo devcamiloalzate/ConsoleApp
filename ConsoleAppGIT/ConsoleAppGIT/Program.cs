@@ -16,6 +16,7 @@ namespace ConsoleAppGIT
             Console.WriteLine("Juan no es noob, el es pro");
             Console.WriteLine("conflicto deivi");
             Console.WriteLine("Conflicto Camilo");
+            Console.WriteLine("Nuevo commit en la master");
         }
     }
 }
