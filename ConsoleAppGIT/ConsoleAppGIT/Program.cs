@@ -17,6 +17,7 @@ namespace ConsoleAppGIT
             Console.WriteLine("conflicto deivi");
             Console.WriteLine("Conflicto Camilo");
             Console.WriteLine("Nuevo commit en la master");
+            Console.WriteLine("Nuevo commit en la master 2");
         }
     }
 }
