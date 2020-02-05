@@ -30,6 +30,8 @@ namespace ConsoleAppGIT
             Console.WriteLine("Nuevo commit en la master 10");
             Console.WriteLine("Nuevo commit en la master 11");
             Console.WriteLine("Nuevo commit en la master 12");
+            Console.WriteLine("Nuevo commit en la master 12");
+            Console.WriteLine("Nuevo commit en la master 12");
         }
     }
 }
